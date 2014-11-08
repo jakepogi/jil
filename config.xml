@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="Music"  version = "1.2.3" versionCode = "18" >
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="Values"  version = "1.2.3" versionCode = "19" >
 
 
-        <name>MUSIC MOBILE APPLICATION</name>
-        <description>Music Mobile Application</description>
-        <author>Gericho Costales</author>        
+        <name>Game Values</name>
+        <description>GameVal</description>
+        <author>Jilian Marie Gonzaga</author>        
 		<gap:platforms>
                 <gap:platform name="ios" />
                 <gap:platform name="android" />
@@ -13,7 +13,7 @@
                 <gap:platform name="blackberry" project="widgets"/>
         </gap:platforms>
 
-        <icon src="images/icon.jpg" gap:role="default" />
+        <icon src="images/icon.png" gap:role="default" />
         <preference name="phonegap-version" value="3.1.0" />
         
         <access origin="*" subdomains="true" />
